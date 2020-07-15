@@ -1,6 +1,4 @@
 (function($){
-    
-    
     $("#currentDay").text(moment().format("dddd, MMMM Do"));
     $("#currentTime").text(moment().format("LTS"));
 
