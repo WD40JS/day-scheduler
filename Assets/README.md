@@ -5,4 +5,4 @@ Emmet used in order to order necesssary rows.
 File structure used in order to provide order for project.
 All updates comited to Github.
 Screenshots taken for Read.me files in order to record progress.
-./Assets/Screen Shot 2020-07-14 at 6.59.36 PM
+
